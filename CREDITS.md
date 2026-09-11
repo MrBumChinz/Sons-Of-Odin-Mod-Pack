@@ -22,9 +22,9 @@ If you enjoy these mods, please support the authors on their official pages
 | Extra Slots Custom Slots | 1.0.22 | shudnal | https://thunderstore.io/c/valheim/p/shudnal/ExtraSlotsCustomSlots/ |
 | Hip Lantern | 1.1.6 | shudnal | https://thunderstore.io/c/valheim/p/shudnal/HipLantern/ |
 | Configuration Manager (Official BepInEx) | 18.4.1 | BepInEx Team (uploaded by Azumatt) | https://thunderstore.io/c/valheim/p/Azumatt/Official_BepInEx_ConfigurationManager/ |
-| Better Ladders | 0.2.0 | see Thunderstore | https://thunderstore.io/c/valheim/ |
-| Speedy Paths | 1.0.8 | see Thunderstore | https://thunderstore.io/c/valheim/ |
-| Minimal Status Effects | 1.0.7 | see Thunderstore | https://thunderstore.io/c/valheim/ |
+| Better Ladders | 0.2.0 | Original by Nexus author; Thunderstore reupload by Amar1729 | https://www.nexusmods.com/valheim/mods/1054 · https://thunderstore.io/c/valheim/p/Amar1729/BetterLadders/ |
+| Speedy Paths | 1.0.8 | Nextek | https://github.com/NNaso/ValheimMods |
+| Minimal Status Effects | 1.0.7 | Randy Knapp | https://thunderstore.io/c/valheim/p/RandyKnapp/MinimalStatusEffects/ |
 
 ## Mod loader
 

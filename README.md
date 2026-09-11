@@ -64,9 +64,9 @@ Launch Valheim, join **Sons Of Odin**, and you're in. Press **F1** in-game to op
 | Extra Slots Custom Slots | 1.0.22 | shudnal |
 | Hip Lantern | 1.1.6 | shudnal |
 | Configuration Manager (Official BepInEx) | 18.4.1 | BepInEx Team |
-| Better Ladders | 0.2.0 | see CREDITS |
-| Speedy Paths | 1.0.8 | see CREDITS |
-| Minimal Status Effects | 1.0.7 | see CREDITS |
+| Better Ladders | 0.2.0 | Amar1729 (reupload) / orig. Nexus author |
+| Speedy Paths | 1.0.8 | Nextek |
+| Minimal Status Effects | 1.0.7 | Randy Knapp |
 
 Requires **BepInExPack Valheim 5.4.2350** (included).
 
