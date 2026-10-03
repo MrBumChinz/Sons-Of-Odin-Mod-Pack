@@ -67,6 +67,17 @@ Launch Valheim, join **Sons Of Odin**, and you're in. Press **F1** in-game to op
 | Better Ladders | 0.2.0 | Amar1729 (reupload) / orig. Nexus author |
 | Speedy Paths | 1.0.8 | Nextek |
 | Minimal Status Effects | 1.0.7 | Randy Knapp |
+| Beasts of Burden | 1.0.6 | AWL Gaming |
+| No Wood Water Damage | 1.0.1 | cjayride |
+| ItemDrawers | 0.5.8 | See package metadata |
+| AutoRepair | 0.0.1 | mtsukn / Tekla original |
+| MyDirtyHoe | 2.2.3 | MagicMike |
+| Plant Easily | 2.2.2 | Advize |
+| Plant Everything | 1.21.3 | Advize |
+| Stumps Regrow | 1.10.0 | Advize |
+| AutoDoors | 1.0.18 | Zenox |
+| PortalPreview | 1.3.5 | ivest (client-only) |
+| Expanded Boat Minimap | 1.0.0 | lunar91 (client-only) |
 
 Requires **BepInExPack Valheim 5.4.2350** (included).
 
