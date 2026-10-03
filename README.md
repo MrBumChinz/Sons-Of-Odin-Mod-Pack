@@ -55,7 +55,7 @@ Launch Valheim, join **Sons Of Odin**, and you're in. Press **F1** in-game to op
 |---|---|---|
 | Thor | 1.0.2 | MrBumChinz |
 | Odin | 1.2.7 | MrBumChinz |
-| Loki — Auto Map Pins | 1.4.2 | MrBumChinz |
+| Loki — Auto Map Pins | 1.4.4 | MrBumChinz |
 | Jötunn (The Valheim Library) | 2.30.0 | Jötunn Team |
 | ConditionalConfigSync | 1.0.5 | shudnal |
 | YamlDotNet | 16.3.1 | ValheimModding |

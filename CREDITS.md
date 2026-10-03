@@ -13,7 +13,7 @@ If you enjoy these mods, please support the authors on their official pages
 |---|---|---|---|
 | Thor | 1.0.2 | MrBumChinz | https://github.com/MrBumChinz |
 | Odin | 1.2.7 | MrBumChinz | https://github.com/MrBumChinz |
-| Loki — Auto Map Pins | 1.4.2 | MrBumChinz | https://github.com/MrBumChinz |
+| Loki — Auto Map Pins | 1.4.4 | MrBumChinz | https://github.com/MrBumChinz |
 | Jötunn (The Valheim Library) | 2.30.0 | Jötunn Team | https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/ |
 | ConditionalConfigSync | 1.0.5 | shudnal | https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/ |
 | YamlDotNet | 16.3.1 | ValheimModding (repack of aaubry/YamlDotNet) | https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/ |
