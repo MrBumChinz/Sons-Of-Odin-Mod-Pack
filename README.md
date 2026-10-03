@@ -78,6 +78,15 @@ Launch Valheim, join **Sons Of Odin**, and you're in. Press **F1** in-game to op
 | AutoDoors | 1.0.18 | Zenox |
 | PortalPreview | 1.3.5 | ivest (client-only) |
 | Expanded Boat Minimap | 1.0.0 | lunar91 (client-only) |
+| Moonforged Build Pieces | 1.0.6 | Caenos |
+| Moonforged Gates and Fences | 1.1.0 | Caenos |
+| Instantly Destroy Boats and Carts | 1.0.4 | goldenrevolver |
+| Seafloor Walking Boots | 1.0.2 | deemainiac |
+| TimeWeatherHud | 1.1.0 | Lazly (client-only) |
+
+TimeWeatherHud reads the same map-pin list that Loki manages, so Loki pins remain
+available to its marker view. Both mods can draw a compass; keep one compass
+enabled to avoid two overlapping compass strips.
 
 Requires **BepInExPack Valheim 5.4.2350** (included).
 

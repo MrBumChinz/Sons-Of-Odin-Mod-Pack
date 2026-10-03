@@ -36,6 +36,11 @@ If you enjoy these mods, please support the authors on their official pages
 | AutoDoors | 1.0.18 | Zenox | https://discord.gg/YTpsF9YtdU |
 | PortalPreview | 1.3.5 | ivest | Source not listed in package |
 | Expanded Boat Minimap | 1.0.0 | lunar91 | https://github.com/lunar91/ExpandedBoatMinimap |
+| Moonforged Build Pieces | 1.0.6 | Caenos | https://github.com/Caen007/MoonforgedBuildPieces |
+| Moonforged Gates and Fences | 1.1.0 | Caenos | https://github.com/Caen007/MoonforgedGatesAndFences |
+| Instantly Destroy Boats and Carts | 1.0.4 | goldenrevolver | Source not listed in package |
+| Seafloor Walking Boots | 1.0.2 | deemainiac | Source not listed in package |
+| TimeWeatherHud | 1.1.0 | Lazly | https://ko-fi.com/lazly |
 
 ## Mod loader
 
